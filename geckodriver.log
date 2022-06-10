@@ -1,0 +1,45 @@
+1639998811402	geckodriver	INFO	Listening on 127.0.0.1:51382
+1639998814486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51383" "-no-remote" "-profile" "C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofilexXbR1A"
+1639998846332	geckodriver	INFO	Listening on 127.0.0.1:51490
+1639998849367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51491" "-no-remote" "-profile" "C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofileAy2pjt"
+1639998849752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofileAy2pjt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51491/devtools/browser/8ef20abf-6eb3-4389-8934-db6af791e37d
+1639998852071	Marionette	INFO	Listening on port 51496
+1639998852131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1639998945034	Marionette	INFO	Stopped listening on port 51496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639998979876	geckodriver	INFO	Listening on 127.0.0.1:51574
+1639998982925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51575" "-no-remote" "-profile" "C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofilecwo8Ua"
+1639998983534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofilecwo8Ua\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51575/devtools/browser/77dea197-f7e5-4ec3-ad3f-24524fe44493
+1639998985800	Marionette	INFO	Listening on port 51580
+1639998986343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639999619313	Marionette	INFO	Stopped listening on port 51580
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639999638810	geckodriver	INFO	Listening on 127.0.0.1:51766
+1639999641882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51767" "-no-remote" "-profile" "C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofilerPareC"
+1639999642353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RaviM\\AppData\\Local\\Temp\\rust_mozprofilerPareC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51767/devtools/browser/035ca2ba-fe23-49ce-b5dc-ddd6e0c9cb7e
+1639999644580	Marionette	INFO	Listening on port 51773
+1639999644625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1640003296085	Marionette	INFO	Stopped listening on port 51773
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/f091789f4907.js, line 361: TypeError: this.props is undefined
